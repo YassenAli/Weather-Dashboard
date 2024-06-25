@@ -31,9 +31,9 @@ This Weather Dashboard project provides current weather conditions and a 5-day w
 You can view the live demo of this project here: [Weather Dashboard](https://yassenali.github.io/Weather-Dashboard/)
 
 ## Examples
-- *London Weather*:
+- ***London Weather***:
   ![Weather of London](screenshots/weatherOfLondon.png)
-- *Rome Weather*:
+- ***Rome Weather***:
   ![Weather of Rome](screenshots/weatherOfRome.png)
 
 ## Acknowledgments
