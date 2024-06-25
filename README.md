@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-![Weather Dashboard](weather.png)
+![Weather Dashboard](screenshots/weather.png)
 
 ## Description
 This Weather Dashboard project provides current weather conditions and a 5-day weather forecast for any city. It uses data from the OpenWeatherMap API to display weather information and an interactive map to show the location and weather conditions visually.
@@ -19,6 +19,7 @@ This Weather Dashboard project provides current weather conditions and a 5-day w
 - `style.css`: The custom CSS file for styling the website.
 - `script.js`: The JavaScript file containing the functionality to fetch and display weather data.
 - `images/`: This folder contains images used in the website.
+- `screenshots/`: This folder contains screenshots of website.
 
 ## How to Use
 1. Change API key in script.js file into your API key. (get it from open weather website)
