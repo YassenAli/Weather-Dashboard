@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+</head>
+<body>
+<div class="container">
+    <h1>Weather Dashboard</h1>
+    <section class="weather-info">
+        <section class="inputs">
+            <input type="text" placeholder="Enter Your City Name..." id="search-box">
+            <button id="get-weather-btn">Search</button>
+        </section>
+        <section id="weather-display">
+            <section id="current-weather">
+                <h2>Current Weather in <span id="city-name">...</span></h2>
+                <img id="weather-icon" src="" alt="Weather Icon">
+                <p id="temperature"></p>
+                <p id="weather-description"></p>
+            </section>
+            <section id="details">
+                <div class="col">
+                    <img src="images/humidity.png" alt="Humidity Icon">
+                    <div>
+                        <p id="humidity"></p>
+                    </div>
+                </div>
+                <div class="col">
+                    <img src="images/wind.png" alt="Wind Icon">
+                    <div>
+                        <p id="wind-speed"></p>
+                    </div>
+                </div>
+                <section id="forecast">
+                    <h2>Forecast</h2>
+                    <div class="forecast-cards"></div>
+                </section>
+                <section id="weather-map">
+                    <h2>Weather Map</h2>
+                </section>
+            </section>
+        </section>
+    </section>
+</div>
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

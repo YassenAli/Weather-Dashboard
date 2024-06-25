@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.75);
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 600px;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    color: #fff;
+}
+
+.inputs {
+    margin-bottom: 20px;
+}
+
+#search-box {
+    padding: 10px;
+    width: 70%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+#weather-display {
+    display: none;
+    margin-top: 20px;
+}
+
+#weather-display p {
+    margin: 5px 0;
+}
+
+#current-weather {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+.details {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.col {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.col img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+#forecast {
+    margin-top: 20px;
+}
+
+.forecast-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.forecast-card {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    flex: 1;
+    min-width: 100px;
+}
+
+#weather-map {
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+#weather-icon {
+    width: 100px;
+    height: auto;
+    margin: 0 auto;
+}
