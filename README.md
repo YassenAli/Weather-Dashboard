@@ -32,9 +32,9 @@ You can view the live demo of this project here: [Weather Dashboard](https://yas
 
 ## Examples
 - **London Weather**:
-  ![Weather of London](images/weatherOfLondon.png)
+  ![Weather of London](screenshots/weatherOfLondon.png)
 - **Rome Weather**:
-  ![Weather of Rome](images/weatherOfRome.png)
+  ![Weather of Rome](screenshots/weatherOfRome.png)
 
 ## Acknowledgments
 - OpenWeatherMap for providing weather data.
