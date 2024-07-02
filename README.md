@@ -30,6 +30,8 @@ This Weather Dashboard project provides current weather conditions and a 5-day w
 ## Live Demo
 You can view the live demo of this project here: [Weather Dashboard](https://yassenali.github.io/Weather-Dashboard/)
 
+If the above link not work try [this](https://comfy-liger-ffd4b6.netlify.app).
+
 ## Examples
 - ***London Weather***:
   ![Weather of London](screenshots/weatherOfLondon.png)
