@@ -33,7 +33,7 @@ You can view the live demo of this project here: [Weather Dashboard](https://yas
 If the above link not work try [this](https://comfy-liger-ffd4b6.netlify.app).
 
 ## Examples
-- ***London Weather***:
+- <span fontweight="90px">***London Weather***</span>:
   ![Weather of London](screenshots/weatherOfLondon.png)
 - ***Rome Weather***:
   ![Weather of Rome](screenshots/weatherOfRome.png)
