@@ -38,8 +38,6 @@ If the above link not work try [this](https://comfy-liger-ffd4b6.netlify.app).
   
 - ***Rome Weather***:
   ![Weather of Rome](screenshots/weatherOfRome.png)
-  
-</div>
 
 ## Acknowledgments
 - OpenWeatherMap for providing weather data.
