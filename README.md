@@ -34,11 +34,7 @@ If the above link not work try [this](https://comfy-liger-ffd4b6.netlify.app).
 
 ## Examples
 - ***London Weather***:
-  <div align="center"> 
-    
     ![Weather of London](screenshots/weatherOfLondon.png)
-  
-  </div>
   
 - ***Rome Weather***:
 <div align="center">
