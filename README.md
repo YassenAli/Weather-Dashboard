@@ -37,8 +37,6 @@ If the above link not work try [this](https://comfy-liger-ffd4b6.netlify.app).
     ![Weather of London](screenshots/weatherOfLondon.png)
   
 - ***Rome Weather***:
-<div align="center">
-  
   ![Weather of Rome](screenshots/weatherOfRome.png)
   
 </div>
